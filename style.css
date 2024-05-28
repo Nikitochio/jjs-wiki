@@ -1,0 +1,141 @@
+
+
+.main{
+    color: rgb(233, 211, 85);
+    padding-bottom: 10px;
+    padding-left: 1150px;
+    padding-right:10px;
+    padding-top:10px;
+    margin:12px
+}
+
+.cart1{
+    margin: 300px 0px 0px 300px;
+    padding: 20px 0px 10px 20px;
+    border: 2px;
+    width: 140px;
+    height: 30px;
+    background-color: #272527;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.cart2{
+    margin: -510px 0px 0px 700px;
+    padding: 20px 0px 10px 20px;
+    border: 2px;
+    width: 140px;
+    height: 30px;
+    background-color: #1984c2;
+    border-radius: 10px;
+    color: #ffffff;
+}
+.corp{
+    margin: 30px 0px 0px -10px;
+    padding: 20px 300px 10px 20px;
+    border: 2px;
+    width: 140px;
+    height: 30px;
+    background-color: rgb(233, 211, 85);
+    color: #ffffff;
+}
+
+.cart3{
+    margin: -525px 0px 0px 1100px;
+    padding: 20px 0px 10px 20px;
+    border: 2px;
+    width: 140px;
+    height: 30px;
+    background-color: #024e0f;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.cart4{
+    margin: -230px 0px 0px 1500px;
+    padding: 20px 0px 10px 20px;
+    border: 2px;
+    width: 140px;
+    height: 30px;
+    background-color: #4e0202;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.cart5{
+    margin:  -220px 0px 0px 1800px;
+    padding: 20px 0px 10px 20px;
+    border: 2px;
+    width: 140px;
+    height: 30px;
+    background-color: #280852;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.resize {
+    width: 150px;
+    height: auto;
+    margin: -200px 0px 500px 285px;
+    padding: 20px 0px 10px 20px;
+}
+.resize1 {
+    width: 150px;
+    height: auto;
+    margin: -220px 0px 500px 685px;
+    padding: 30px 0px 20px 20px;
+}
+.resize2 {
+    width: 150px;
+    height: auto;
+    margin: -290px 0px 200px 1085px;
+    padding: 30px 0px 20px 20px;
+}
+.resize3 {
+    width: 150px;
+    height: auto;
+    margin: -230px 0px 200px 1485px;
+    padding: 30px 0px 20px 20px;
+}
+.resize4 {
+    width: 150px;
+    height: auto;
+    margin: -400px 0px 200px 1785px;
+    padding: 30px 0px 20px 20px;
+}
+
+
+.textcols {
+	white-space: nowrap;
+}
+.textcols-item {
+	white-space: normal;	
+	display: inline-block;
+	width: 48%;
+	vertical-align: top;
+	background: #ffffff;
+}
+.textcols .textcols-item:first-child {
+	margin-right: 4%;
+}
+.verticalLine {
+    border-left: thick solid #070707;
+}
+.resize5 {
+    width: 350px;
+    height: auto;
+    margin: 10px 0px 200px 15px;
+    padding: 30px 0px 20px 20px;
+}
+.resize6 {
+    width: 350px;
+    height: auto;
+    margin: 100px 0px 200px -570px;
+    padding: 30px 0px 20px 20px;
+}
+.resize7 {
+    width: 350px;
+    height: auto;
+    margin: 100px 0px 200px -1170px;
+    padding: 30px 0px 20px 20px;
+}
